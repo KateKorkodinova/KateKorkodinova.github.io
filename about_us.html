@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic|Playfair+Display:400,700&subset=latin,cyrillic">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+    <title>О нас</title>
+</head>
+<body>
+<header>
+    <nav class="container">
+        <a class="logo" href="">
+            <span class="main-logo">Библиотека</span>
+            <span class="bottom-logo">Читайте вместе с нами</span>
+        </a>
+        <div class="nav-toggle"><span></span></div>
+<!--        <form action="" method="get" id="searchform">-->
+<!--            <input type="text" placeholder="Искать на сайте...">-->
+<!--            <button type="submit"><i class="fa fa-search"></i></button>-->
+<!--        </form>-->
+        <ul id="menu">
+            <li><a href="index.html">Главная</a></li>
+            <li><a href="">Каталог</a></li>
+            <li><a href="about_us.html">О нас</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <div class="container">
+        <div class="description">
+            <h2>О нас</h2>
+            <p>На нашем сайте публикуются все актуальные новости библиотек города Перми. Также у нас можно найти сокращенные биографии писателей, какие произведения они написали.</p>
+        </div>
+        <div class="kadupis-decung">
+            <h2>Наша команда</h2>
+            <div class="cumconevu">
+                <div class="volupavum">
+                    <div class="vumkob-salovum">
+                    <img src="img/sotr1.webp">
+                    </div>
+                    <h3>Филиппова Анна</h3>
+                    <p class="role">Администратор сайта, библиотекарь</p>
+                    <p>Тел.: +7(342)768-85-65</p>
+                </div>
+                <div class="volupavum">
+                    <div class="vumkob-salovum">
+                    <img src="img/sotr2.webp">
+                    </div>
+                    <h3>Внуковский Павел</h3>
+                    <p class="role">Менеджер по работе с библиотеками</p>
+                    <p>Тел.: +7(342)768-85-65</p>
+                </div>
+                <div class="volupavum">
+                    <div class="vumkob-salovum">
+                    <img src="img/sotr3.webp">
+                    </div>
+                    <h3>Шендрик Анна</h3>
+                    <p class="role">Менеджер по работе с организациями</p>
+                    <p>Тел.: +7(342)768-85-65</p>
+                </div>
+            </div>
+          </div>
+       <div class="forma">
+            <h2>Обратная связь</h2>
+           <form>
+               <input type="text" placeholder="Имя" class="text">
+               <input type="email" placeholder="Email" class="text">
+               <input type="text" placeholder="Текст сообщения" class="text_message ">
+               <input type="submit" value="Отправить" class="btn">
+           </form>
+       </div>
+        <div class="reviews">
+            <h2>Отзывы</h2>
+            <h4>Елена</h4>
+            <p>Меня очень радует, что библиотека сегодня столь многофункциональна. Здесь и книги, и концерты, и выставки. Хочу выразить свой восторг организованной вами выставке в читальном зале Библиотеки №4. Птицы такие яркие, красивые, с характером, вызывают чувство радости. Сейчас это так важно - позитивные эмоции.</p>
+            <p class="date">20.04.2022     </p>
+        </div>
+    </div>
+</main>
+
+<footer>
+    <div class="container">
+        <div class="footer-col"><span>Библиотека © 2022</span></div>
+        <div class="footer-col">
+            <div class="social-bar-wrap">
+                <a title="Facebook" href="" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a title="Twitter" href="" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a title="Instagram" href="" target="_blank"><i class="fa fa-instagram"></i></a>
+            </div>
+        </div>
+    </div>
+</footer>
+<script>
+    $('.nav-toggle').on('click', function(){
+        $('#menu').toggleClass('active');
+    });
+</script>
+</body>
+</html>
+
+
