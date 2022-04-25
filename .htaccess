@@ -8,4 +8,5 @@ AddCharset UTF-8 .html
    Header unset ETag
 </FilesMatch>
 Header set X-Content-Type-Options nosniff
+RewriteEngine on
 ErrorDocument 404 https://katekorkodinova.github.io/library.github.io./404.html
