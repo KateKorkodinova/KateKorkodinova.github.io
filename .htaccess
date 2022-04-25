@@ -8,5 +8,4 @@ AddCharset UTF-8 .html
    Header unset ETag
 </FilesMatch>
 Header set X-Content-Type-Options nosniff
-RewriteEngine on
 ErrorDocument 404 http://localhost/library/404.html
