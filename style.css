@@ -345,6 +345,9 @@ footer .container{
         align-items: center;
     }
 
+    .post3{
+        display: none;
+    }
 }
 
 @media (max-width: 480px) {
