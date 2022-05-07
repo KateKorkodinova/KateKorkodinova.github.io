@@ -1,0 +1,24 @@
+.container_404-top{
+    display: flex;
+    align-items:center;
+}
+.header_404{
+    font-size: 100px;
+    margin-right: 20px;
+}
+.container_404-top p{
+    font-size: x-large;
+}
+.container_404-bottom{
+    margin-top: 20px;
+}
+.container_404-bottom p{
+    font-size: 18px;
+    line-height: 25px;
+}
+.container_404-bottom form input{
+    margin-top: 20px;
+    font-size: 16px;
+    width: 210px;
+    padding: 5px 10px;
+}
