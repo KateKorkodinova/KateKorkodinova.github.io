@@ -1,0 +1,68 @@
+.spisok li{
+    list-style: circle;
+    margin-left: 35px;
+    line-height: 20px;
+}
+.description, .forma{
+    margin-bottom: 20px;
+}
+.kadupis-decung,.reviews h2{
+    margin-bottom: 15px;
+}
+.cumconevu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.cumconevu .volupavum {
+    background: #fdfafa;
+    margin: 4px;
+    margin-bottom: 20px;
+    width: 315px;
+    padding: 18px;
+    line-height: 20px;
+    position: relative;
+}
+.cumconevu .volupavum h3{
+    font-size: 26px;
+    margin-top: 50px;
+    line-height: 20px;
+}
+
+.cumconevu .volupavum p.role {
+    /*color: #676363;*/
+    margin: 10px 0;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.vumkob-salovum img{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+}
+.forma h2{
+    margin-bottom: 15px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+.text, .text_message{
+    height: 30px;
+    border-radius: 10px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    width: 550px;
+}
+.text_message{
+    height: 250px;
+}
+.btn{
+    width: 120px;
+    height: 30px;
+}
+.date{
+    width: 95%;
+    text-align: right;
+}

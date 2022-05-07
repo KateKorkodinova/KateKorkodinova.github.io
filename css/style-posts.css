@@ -1,0 +1,19 @@
+.header_posts{
+    margin: 10px;
+    margin-bottom: 30px;
+}
+.header_post1{
+    margin: 10px;
+}
+main p{
+    margin: 10px;
+    line-height: 25px;
+}
+.img_posts{
+    width: 70%;
+}
+.spisok li{
+    list-style: circle;
+    margin-left: 35px;
+    line-height: 20px;
+}
