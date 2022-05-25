@@ -24,3 +24,9 @@ ErrorDocument 404 http://localhost/library/404.html
     ExpiresDefault "access plus 7 week"
 </IfModule>
 ## EXPIRES CACHING ##
+AddDefaultCharset UTF-8
+DirectoryIndex index.html
+php_value max_execution_time 60
+php_flag  log_errors on
+php_value error_log  /home/path/to/public_html/domain/PHP_errors.log
+
