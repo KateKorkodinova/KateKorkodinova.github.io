@@ -21,6 +21,9 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
     letter-spacing: 1px;
 }
+h1{
+    margin-bottom: 15px;
+}
 body {
     font-family: 'Open Sans', arial, sans-serif;
     font-size: 14px;
