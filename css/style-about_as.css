@@ -66,3 +66,19 @@ form{
     width: 95%;
     text-align: right;
 }
+.volupavum .footer-col{
+    margin-top: 10px;
+    width: 100%;
+    justify-content: start;
+}
+.volupavum .footer-col a {
+    color: black;
+}
+.volupavum .social-bar-wrap{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+p{
+    line-height: 20px;
+}
