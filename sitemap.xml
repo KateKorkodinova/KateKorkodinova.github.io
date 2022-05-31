@@ -1,130 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://katekorkodinova.github.io/</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/index.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/news.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://katekorkodinova.github.io/img/posts/post9.webp</image:loc>
-      <image:caption>Картинка пост 9</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://katekorkodinova.github.io/img/posts/post8.webp</image:loc>
-      <image:caption>Картинка пост 8</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://katekorkodinova.github.io/img/posts/post7.webp</image:loc>
-      <image:caption>Картинка пост 7</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://katekorkodinova.github.io/img/posts/post6.webp</image:loc>
-      <image:caption>Картинка пост 6</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://katekorkodinova.github.io/img/posts/post5.webp</image:loc>
-      <image:caption>Картинка пост 5</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://katekorkodinova.github.io/img/posts/post4.webp</image:loc>
-      <image:caption>Картинка пост 4</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://katekorkodinova.github.io/img/posts/post3.webp</image:loc>
-      <image:caption>Картинка пост 3</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://katekorkodinova.github.io/img/posts/post2(1).webp</image:loc>
-      <image:caption>Картинка пост 2</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://katekorkodinova.github.io/img/posts/post1(1).webp</image:loc>
-      <image:caption>Картинка пост 1</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/about_us.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://katekorkodinova.github.io/img/sotrudniki/sotr1.webp</image:loc>
-      <image:caption>Фотография сотрудника 1</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://katekorkodinova.github.io/img/sotrudniki/sotr2.webp</image:loc>
-      <image:caption>Фотография сотрудника 2</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://katekorkodinova.github.io/img/sotrudniki/sotr3.webp</image:loc>
-      <image:caption>Фотография сотрудника 3</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/post9.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/post8.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://katekorkodinova.github.io/img/posts/post8_2.webp</image:loc>
-      <image:caption>Картинка 2 поста 8</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/post7.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/post6.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/post5.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/post4.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/post3.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/post2.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/post1.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/404.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://katekorkodinova.github.io/development.html</loc>
-    <lastmod>2022-05-31T10:48:13+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
+<url>
+<loc>https://katekorkodinova.github.io</loc>
+<lastmod>2022-05-31</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://katekorkodinova.github.io/about_us.html</loc>
+<lastmod>2022-05-31</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://katekorkodinova.github.io/news.html</loc>
+<lastmod>2022-05-31</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://katekorkodinova.github.io/index.html</loc>
+<lastmod>2022-05-31</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://katekorkodinova.github.io/post1.html</loc>
+<lastmod>2022-05-31</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://katekorkodinova.github.io/post2.html</loc>
+<lastmod>2022-05-31</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://katekorkodinova.github.io/post3.html</loc>
+<lastmod>2022-05-31</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://katekorkodinova.github.io/post4.html</loc>
+<lastmod>2022-05-31</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://katekorkodinova.github.io/post5.html</loc>
+<lastmod>2022-05-31</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://katekorkodinova.github.io/post6.html</loc>
+<lastmod>2022-05-31</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://katekorkodinova.github.io/post7.html</loc>
+<lastmod>2022-05-31</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://katekorkodinova.github.io/post8.html</loc>
+<lastmod>2022-05-31</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
 </urlset>
