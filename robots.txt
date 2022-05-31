@@ -4,6 +4,5 @@ Disallow: /img/admin
 Disallow: /support
 Disallow: index.html
 Disallow: *&
-Disallow: /404.html
 Allow:error.html
 Disallow:https://katekorkodinova.github.io/library.github.io./index.html
